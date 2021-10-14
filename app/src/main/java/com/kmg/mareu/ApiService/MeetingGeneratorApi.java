@@ -15,16 +15,16 @@ public abstract class MeetingGeneratorApi {
      * List of Rooms
      */
     public static List<Room> ROOM_LIST = Arrays.asList(
-            new Room("Salle 1","#E9D0C6"),
-            new Room("Salle 2","#9ABCA4"),
-            new Room("Salle 3","#E9D0C6"),
-            new Room("Salle 4","#9ABCA4"),
-            new Room("Salle 5","#E9D0C6"),
-            new Room("Salle 6","#9ABCA4"),
-            new Room("Salle 7","#E9D0C6"),
-            new Room("Salle 8","#9ABCA4"),
-            new Room("Salle 9","#E9D0C6"),
-            new Room("Salle 10","#9ABCA4")
+            new Room("Brand","#e9d0c6"),
+            new Room("Consulting","#a22c29"),
+            new Room("Glory","#9f7833"),
+            new Room("Imagine","#7c7f65"),
+            new Room("Kickstart","#9abca4"),
+            new Room("Mystic","#b9f18c"),
+            new Room("Thrive","#b2ffd6"),
+            new Room("Utopia","#7ee8fa"),
+            new Room("Vision","#37515f"),
+            new Room("Wired","#2b2d42")
     );
 
     /**
